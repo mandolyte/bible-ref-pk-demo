@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77eddf0ce6ab1eaaec13e7826948a040",
+    "revision": "9bdd28c3ea5ac2875eb95c02d7adb542",
     "url": "/bible-ref-pk-demo/index.html"
   },
   {
-    "revision": "0e891fd4b977c96d1c3f",
+    "revision": "ee5c5ea165a12451dad3",
     "url": "/bible-ref-pk-demo/static/css/main.07a718d4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bible-ref-pk-demo/static/js/2.9c4685ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e891fd4b977c96d1c3f",
-    "url": "/bible-ref-pk-demo/static/js/main.75fe07e7.chunk.js"
+    "revision": "ee5c5ea165a12451dad3",
+    "url": "/bible-ref-pk-demo/static/js/main.5be69988.chunk.js"
   },
   {
     "revision": "61976ba9c6f6e8290a7e",
